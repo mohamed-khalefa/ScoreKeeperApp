@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="FontSizeTextViews" >20sp </dimen>
+    <dimen name="FontSizeButton">17sp</dimen>
+    <dimen name="MarginTopImage">40dp</dimen>
+    <dimen name="MarginTopText">18dp</dimen>
+    <dimen name="MarginBottom">10dp</dimen>
+    <dimen name="MarginRight">10dp</dimen>
+    <dimen name="MarginLeft">10dp</dimen>
+    <dimen name="MarginHorizontal">25dp</dimen>
+    <dimen name="ImageViewWidth">45dp</dimen>
+    <dimen name="ImageViewHeight">45dp</dimen>
+    <dimen name="MarginHorizontalB">15dp</dimen>
+    <dimen name="WidthReal">60dp</dimen>
+    <dimen name="LineWidth"> 3dp</dimen>
+    <dimen name="MarginRightReal">20dp</dimen>
+    <dimen name="MarginTopImageHor">10dp</dimen>
+    <dimen name="MarginTopTextHor">8dp</dimen>
+
+
+</resources>
